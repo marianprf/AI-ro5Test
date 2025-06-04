@@ -1,5 +1,5 @@
 
 
 
-a = 10
+a = "Hello!"
 print(a)
