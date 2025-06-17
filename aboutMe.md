@@ -1,19 +1,6 @@
-🧠 Marian | Psychologist Turned Aspiring AI Engineer
-Greetings, fellow nerds 👋
+Marian | AI Engineer in Training
+Hi, I’m Marian, based in Vienna and currently enrolled in an AI Engineering program at SD Academy. I have a background in Psychology (B.A.), and I'm now transitioning into the tech world with a focus on artificial intelligence, machine learning, and data-driven solutions.
 
-I'm Marian, currently based in Vienna and on an exciting journey from understanding the human mind to building the machine mind. 🎓 I hold a Bachelor’s degree in Psychology, and I'm currently enrolled in an AI Engineering program at SD Academy, where I'm learning to translate curiosity into code.
+I’m passionate about understanding how systems learn, adapt, and interact — whether human or machine. My GitHub is where I document my learning journey, share projects, and build practical skills in Python, AI, and beyond.
 
-I'm passionate about the intersection of cognitive science, machine learning, and all things tech. My GitHub is a growing archive of learning experiments, small victories, and the occasional beautifully-documented bug. 🐛
-
-📚 Interests:
-
-Neural networks (both biological & artificial 🧠🤖)
-
-Python, Data Science, and ML pipelines
-
-Turning coffee into algorithms ☕➡️💻
-
-Open source collaboration & lifelong learning
-
-💡 Let’s connect, collab, or debug together.
 
